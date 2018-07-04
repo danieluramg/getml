@@ -20,6 +20,7 @@ var my_id = "130000019";
   - (Para descobrir sua ID acesse https://api.mercadolibre.com/users/me?access_token=SEU_ACCESS_TOKEN - TROQUE SEU_ACCESS_TOKEN pelo access_token gerado acima, sua ID vai estar na primeira linha)
 
 **USO:**
+
 Cole todo o código do script no Console do Google Chrome (F12 para abrir) ou no jsconsole.com
 
 O navegador vai pedir permissão para salvar vários arquivos, para cada anuncio será criado um arquivo HTML com os dados.
